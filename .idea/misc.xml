@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/SEMESTER5/PemrogramanMobile/Baca_Dulu/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/SEMESTER5/PemrogramanMobile/Baca_Dulu/app/src/main/res/layout/activity_main.xml" value="0.1721014492753623" />
-        <entry key="..\:/SEMESTER5/PemrogramanMobile/Baca_Dulu/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/SEMESTER5/PemrogramanMobile/Baca_Dulu/app/src/main/res/layout/activity_register.xml" value="0.264" />
       </map>
     </option>
   </component>
