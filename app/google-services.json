@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268620530321",
+    "project_id": "bacadulu-mobileapps",
+    "storage_bucket": "bacadulu-mobileapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268620530321:android:73d4a5e6f7edc254443530",
+        "android_client_info": {
+          "package_name": "com.bacadulu.bacaduluapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268620530321-tdbd3n1mj9ffm40ck2cvc1oqp8u93peg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO-liARS9Juxm8GvSlD73opVy_bPsF2ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268620530321-tdbd3n1mj9ffm40ck2cvc1oqp8u93peg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
