@@ -4,11 +4,17 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.fragment.app.Fragment
+import androidx.recyclerview.widget.LinearLayoutManager
 import com.bacadulu.bacaduluapps.databinding.ActivityHomeBinding
 import com.bacadulu.bacaduluapps.fragments.FavoriteFragment
 import com.bacadulu.bacaduluapps.fragments.HistoryFragment
 import com.bacadulu.bacaduluapps.fragments.HomeFragment
 import com.google.firebase.auth.FirebaseAuth
+
+import com.bacadulu.bacaduluapps.model.Book;
+import com.bacadulu.bacaduluapps.recyclerview.BookAdapter;
+import androidx.recyclerview.widget.RecyclerView
+
 
 class HomeActivity : AppCompatActivity() {
 

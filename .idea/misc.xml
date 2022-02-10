@@ -3,15 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/SEMESTER5/PemrogramanMobile/Baca_Dulu/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/KARAJO KULIAH/SEMESTER 5/Pemrograman Mobile/PROJECT/Baca_Dulu/Baca_Dulu/app/src/main/res/drawable/bg_container.xml" value="0.1" />
+        <entry key="..\:/KARAJO KULIAH/SEMESTER 5/Pemrograman Mobile/PROJECT/Baca_Dulu/Baca_Dulu/app/src/main/res/drawable/container_bg.xml" value="0.25" />
+        <entry key="..\:/KARAJO KULIAH/SEMESTER 5/Pemrograman Mobile/PROJECT/Baca_Dulu/Baca_Dulu/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/KARAJO KULIAH/SEMESTER 5/Pemrograman Mobile/PROJECT/Baca_Dulu/Baca_Dulu/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/KARAJO KULIAH/SEMESTER 5/Pemrograman Mobile/PROJECT/Baca_Dulu/Baca_Dulu/app/src/main/res/layout/item_book.xml" value="0.33" />
+        <entry key="..\:/KARAJO KULIAH/SEMESTER 5/Pemrograman Mobile/PROJECT/Baca_Dulu/Baca_Dulu/app/src/main/res/menu/nav_menu.xml" value="0.19375" />
         <entry key="..\:/SEMESTER5/PemrogramanMobile/Baca_Dulu/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/SEMESTER5/PemrogramanMobile/Baca_Dulu/app/src/main/res/layout/activity_main.xml" value="0.1721014492753623" />
         <entry key="..\:/SEMESTER5/PemrogramanMobile/Baca_Dulu/app/src/main/res/layout/activity_register.xml" value="0.264" />
-        <entry key="..\:/SEMESTER5/PemrogramanMobile/Baca_Dulu/app/src/main/res/layout/activity_splash.xml" value="0.264" />
-        <entry key="..\:/SEMESTER5/PemrogramanMobile/Baca_Dulu/app/src/main/res/layout/fragment_favorite.xml" value="0.23324275362318841" />
-        <entry key="..\:/SEMESTER5/PemrogramanMobile/Baca_Dulu/app/src/main/res/layout/fragment_history.xml" value="0.23324275362318841" />
-        <entry key="..\:/SEMESTER5/PemrogramanMobile/Baca_Dulu/app/src/main/res/layout/fragment_home.xml" value="0.23324275362318841" />
-        <entry key="..\:/SEMESTER5/PemrogramanMobile/Baca_Dulu/app/src/main/res/menu/nav_menu.xml" value="0.12129629629629629" />
       </map>
     </option>
   </component>
