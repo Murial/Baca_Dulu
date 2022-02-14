@@ -1,7 +1,14 @@
 <resources>
     <string name="app_name">BacaDulu</string>
     <!-- TODO: Remove or change this placeholder text -->
+<<<<<<< Updated upstream
     <string name="frag1">Halaman Home</string>
     <string name="frag2">Halaman History</string>
     <string name="frag3">Halaman Favorite</string>
+=======
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_book1">Buku1</string>
+    <string name="about_book1">ini adalah buku 1</string>
+>>>>>>> Stashed changes
 </resources>

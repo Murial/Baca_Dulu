@@ -1,5 +1,6 @@
 package com.bacadulu.bacaduluapps
 
+import android.app.Activity
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -7,7 +8,6 @@ import androidx.fragment.app.Fragment
 import com.bacadulu.bacaduluapps.databinding.ActivityHomeBinding
 import com.bacadulu.bacaduluapps.fragments.FavoriteFragment
 import com.bacadulu.bacaduluapps.fragments.HistoryFragment
-import com.bacadulu.bacaduluapps.fragments.HomeFragment
 import com.google.firebase.auth.FirebaseAuth
 
 class HomeActivity : AppCompatActivity() {
@@ -26,19 +26,23 @@ class HomeActivity : AppCompatActivity() {
         val binding = ActivityHomeBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+<<<<<<< Updated upstream
         //konten PDF
         binding.mypdf.fromAsset("SAO_Part1.pdf").load()
 
         //settingan navbar
         val HomeFragment = HomeFragment()
+=======
+        //val HomeFragment = DetailActivity()
+>>>>>>> Stashed changes
         val FavoriteFragment = FavoriteFragment()
         val HistoryFragment = HistoryFragment()
 
-        makeCurrentFragment(HomeFragment)
+        makeCurrentFragment(FavoriteFragment)
 
         binding.bottomNavigation.setOnNavigationItemSelectedListener {
             when(it.itemId){
-                R.id.ic_home -> makeCurrentFragment(HomeFragment)
+                R.id.ic_home -> DetailActivity()
                 R.id.ic_favorite -> makeCurrentFragment(FavoriteFragment)
                 R.id.ic_history -> makeCurrentFragment(HistoryFragment)
                 R.id.ic_logout -> btnLogoutClicked()
