@@ -27,7 +27,7 @@ class HomeActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         //konten PDF
-        binding.mypdf.fromAsset("SAO_Part1.pdf").load()
+        binding.mypdf.fromAsset("Trickster_Readings.pdf").load()
 
         //settingan navbar
         val HomeFragment = HomeFragment()

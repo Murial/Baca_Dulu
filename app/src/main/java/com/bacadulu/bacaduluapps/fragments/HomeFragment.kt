@@ -12,6 +12,8 @@ import com.bacadulu.bacaduluapps.databinding.FragmentHomeBinding
 
 class HomeFragment : Fragment() {
 
+    public lateinit var binding: ActivityHomeBinding
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
