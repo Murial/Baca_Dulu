@@ -13,9 +13,6 @@ import com.google.firebase.auth.FirebaseAuth
 class HomeActivity : AppCompatActivity() {
 
     private lateinit var auth: FirebaseAuth
-    lateinit var homeFragment: HomeFragment
-    lateinit var historyFragment: HistoryFragment
-    lateinit var favoriteFragment: FavoriteFragment
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -26,11 +23,14 @@ class HomeActivity : AppCompatActivity() {
         val binding = ActivityHomeBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
         //konten PDF
         binding.mypdf.fromAsset("SAO_Part1.pdf").load()
 
         //settingan navbar
+=======
+>>>>>>> parent of bb19805 (Berhasil Menampilkan PDF)
         val HomeFragment = HomeFragment()
 =======
         //val HomeFragment = DetailActivity()
